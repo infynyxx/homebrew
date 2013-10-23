@@ -3,7 +3,7 @@ require 'formula'
 class Thrift < Formula
   homepage 'http://thrift.apache.org'
   url 'http://www.apache.org/dyn/closer.cgi?path=thrift/0.9.1/thrift-0.9.1.tar.gz'
-  sha1 '1204c66c7c258c827d3b50d36d20ccabc45eb349'
+  sha1 'dc54a54f8dc706ffddcd3e8c6cd5301c931af1cc'
 
   head do
     url 'https://git-wip-us.apache.org/repos/asf/thrift.git', :branch => "master"
